@@ -1,0 +1,4 @@
+#+title: Tindog
+
++ Simple website project using bootstrap
++ website [[https://thanosapollo.github.io/Tindog-/][here]]
